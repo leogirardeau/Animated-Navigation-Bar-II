@@ -22,9 +22,12 @@ nav {
 
 .nav-links {
     display: flex;
-    background-color: red;
     width: 30%;
     justify-content: space-around;
+}
+
+.nav-links li {
+    list-style: none;
 }
 
 .nav-links a {
