@@ -10,4 +10,6 @@ const navSlide = () => {
 // better to make and function to call functions when they are multiples
 const app = () => {
     navSlide();
-}
+};
+
+app();
